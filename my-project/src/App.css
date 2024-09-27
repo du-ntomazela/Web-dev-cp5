@@ -16,9 +16,18 @@ h1 {
 
 #nav-home {
   color: aqua;
+  transition: 0.5s;
+}
+#nav-home:hover {
+  color: rgb(0, 255, 102);
+  transform: translateY(-5px);
 }
 #nav {
   color: aliceblue;
+  transition: 0.5s;
+}
+#nav:hover {
+  transform: translateY(-5px);
 }
 #footer {
   border-radius: 15px 15px 0 0;
@@ -29,5 +38,12 @@ h1 {
   color: aliceblue;
 }
 
-
-
+#button {
+  border: #ffffff solid 2px;
+  padding: 10px;
+  border-radius: 15px;
+  transition: 0.5s;
+}
+#button:hover {
+  transform: scale(1.1);
+}
