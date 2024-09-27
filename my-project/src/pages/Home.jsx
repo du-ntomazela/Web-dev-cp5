@@ -1,8 +1,10 @@
 import "../App.css"
+import Conteudo from "../componentes/main-content"
 
 function home () {
     return(
-        <h1>Home</h1>
+        
+        <Conteudo />
     )
 }
 
