@@ -53,7 +53,7 @@ h1 {
 
 #icon-xp {
   transition: 0.5s;
-}
+} 
 #icon-xp:hover{
   transform: translateY(-10px);
   transform: scale(1.2);
