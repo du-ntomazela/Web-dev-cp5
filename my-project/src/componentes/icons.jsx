@@ -12,7 +12,7 @@ function icons (){
     return (
         <>        
         <h1 id="conteudo-main" className="text-6xl text-white mb-14">Experiências</h1>
-        <div className="flex justify-center mb-14 gap-8">
+        <div className="flex flex-wrap justify-center mb-14 gap-8">
             <IconContext.Provider value={{ color: "red",size: "8em" , className: "global-class-name" }}>
                 <div id="icon-xp">
                     <FaHtml5 />

@@ -63,3 +63,19 @@ h1 {
   border-radius: 8px;
   box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
 }
+#conteiner-flex {
+  display: flex;
+  gap: 8px;
+}
+
+#button1 {
+  border: #ffffff solid 2px;
+  padding: 10px;
+  margin-top: 20%;
+  border-radius: 15px;
+  transition: 0.5s;
+} 
+
+#projetos {
+  height: 516px;
+}

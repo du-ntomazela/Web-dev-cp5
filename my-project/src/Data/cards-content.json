@@ -1,0 +1,43 @@
+[   {
+        "title": "Mahindra Racing",
+        "content": "Projeto em que desenvolvi o código fonte da solução que eu e meu grupo propusemos à Mahindra",
+        "img": "../../public/imgs/projeto1.png",
+        "id": "1",
+        "link": "https://github.com/du-ntomazela/Readme---Python"
+    },
+    {
+        "title": "React",
+        "content": "Criaação de um site de upload de videos, desenvolvido em react, ultilizando conceito de reultilização de componentes ",
+        "img": "../../public/imgs/projeto2.png",
+        "id": "2",
+        "link": "https://cp4-web-omega.vercel.app/"
+    },
+    {
+        "title": "Eco Trend",
+        "content": "E-comerce desenvolvido em html ultilizando a biblioteca Bootstrap para uma tarefa nas aulas de front-end",
+        "img": "../../public/imgs/projeto3.png",
+        "id": "3",
+        "link": "https://leomasago.github.io/cp4Front/"
+    },
+    {
+        "title": "Bot City",
+        "content": "Projeto de automação de processos com a biblioteca BotCity capaz de identificar elementos no display do dispositivo.",
+        "img": "../../public/imgs/projeto4.png",
+        "id": "4",
+        "link": "https://pt-br.botcity.dev/"
+    },
+    {
+        "title": "FiberHome NF",
+        "content": "Aplicação de automação da criação do corpo de uma nota fiscal, e preenchimento das informações para emissão.",
+        "img": "../../public/imgs/projeto5.png",
+        "id": "5",
+        "link": "https://fiberhomebrasil.com.br/"
+    },
+    {
+        "title": "HT2S",
+        "content": "Projeto em python para automação no processo de download de notas fiscais no site da prefeitura de SP e importação no sistema da HT2S.",
+        "img": "../../public/imgs/projeto6.jpeg",
+        "id": "6",
+        "link": "https://ht2s.com.br/"
+    }
+]

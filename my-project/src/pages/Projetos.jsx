@@ -1,8 +1,12 @@
 import "../App.css"
+import Card from "../componentes/CardsStructure"
+
 
 function projetos () {
     return(
-        <h1>projetos</h1>
+        <>
+        <Card />
+        </>
     )
 }
 
