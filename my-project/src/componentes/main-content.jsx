@@ -15,7 +15,7 @@ function conteudo () {
                 </a>
             </div>
             <div className="w-full md:w-1/2 flex justify-center">
-                <img className="w-3/4 md:w-full object-cover" src="../../public/imgs/desenvolvedor.png" alt="Desenvolvedor" />
+                <img className="w-3/4 md:w-full object-cover" src="\public\imgs\desenvolvedor.png" alt="Desenvolvedor" />
             </div>
         </div>
 
