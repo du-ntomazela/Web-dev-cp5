@@ -10,7 +10,7 @@ function conteudo () {
                 <p className="text-white mb-5 text-base md:text-lg">
                 Atualmente estou cursando o segundo semestre do curso de Engenharia de Software na Faculdade de Informática e Administração Paulista (Fiap). 
                 Capaz de desenvolver soluções em Python, JavaScript, C++, HTML5 e CSS3, com conhecimento nas bibliotecas: BotCity, React, Bootstrap, Tailwind, entre outras...</p>
-                <a href="../../public/pdfs/Curriculo-5.pdf" download="Currículo">
+                <a href="Curriculo-5.pdf" download="Currículo">
                 <button id="button" className="text-white bg-blue-950 border border-blue-950 px-4 py-2 rounded-md hover:bg-blue-700 transition duration-300">Download CV</button>
                 </a>
             </div>
